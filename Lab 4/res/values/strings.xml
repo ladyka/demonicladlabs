@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Lab4 Vurtatoo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buttonTwo">Перевести в двоичное число</string>
+    <string name="buttonTen">Перевести в десятичное число</string>
+
+</resources>
